@@ -1,5 +1,3 @@
-Project Description : https://www.csee.umbc.edu/~kalpakis/courses/621-sp22/project/GoTokens-1.pdf
-
 Steps:
 1) We must first generate a proto file, which we must then execute with server_script.sh
 
