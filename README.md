@@ -24,7 +24,7 @@ libraries used are:
 
 NOTE: server_script.sh and client_script.sh are the two bash srcripts used to execute the project
 
-Github Repo Link: https://github.com/Karthik4011/GoLang-GRPC-Client_Server
+
 
 
 References used :
